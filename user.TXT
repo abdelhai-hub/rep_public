@@ -1,1 +1,2 @@
-voil� mon premier fichier vers GIT !!
+voilà mon premier fichier vers GIT !!
+et voilà ma première ligne ecrite directement dans GitHub.
